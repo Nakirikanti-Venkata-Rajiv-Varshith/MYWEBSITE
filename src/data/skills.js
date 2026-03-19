@@ -1,0 +1,17 @@
+export const skills = [
+  { name: 'C',             icon: 'SiC',           type: 'si' },
+  { name: 'Python',        icon: 'SiPython',       type: 'si' },
+  { name: 'React',         icon: 'SiReact',        type: 'si' },
+  // { name: 'Html', icon: '/icons/html.svg', type: 'img' },
+  { name: 'HTML5', icon: 'SiHtml5', type: 'si' },
+  { name: 'CSS3', icon: 'icons/css.svg', type: 'img' },
+  { name: 'JavaScript',    icon: 'SiJavascript',   type: 'si' },
+  { name: 'Node.js',       icon: 'SiNodedotjs',    type: 'si' },
+  { name: 'Express.js',    icon: 'icons/express.svg',    type: 'img' },
+  { name: 'PostgreSQL',    icon: 'icons/postgresql.svg', type: 'img' },
+  { name: 'Docker',        icon: 'SiDocker',       type: 'si' },
+  { name: 'Kubernetes',    icon: 'icons/kubernetes.svg', type: 'img' },
+  { name: 'Git',           icon: 'SiGit',          type: 'si' },
+  { name: 'Linux',         icon: 'SiLinux',        type: 'si' },
+  { name: 'Git Lab', icon: 'icons/gitlab.svg', type: 'img' },
+];
