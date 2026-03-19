@@ -4,7 +4,7 @@ import '../styles/components.css';
 function Footer() {
   return (
     <footer className="footer">
-      <p>© 2026 Balaya. Crafted with ❤️</p>
+      <p>© 2026 Varshith. Crafted with ❤️</p>
       <a
         href="#"
         className="footer-top"
