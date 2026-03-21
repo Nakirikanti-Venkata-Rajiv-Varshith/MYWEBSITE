@@ -19,7 +19,7 @@ demo: "https://nakirikanti-venkata-rajiv-varshith.github.io/Viral-Sairam-Bird/"
 title: "Portfolio Website",
 description: "Developed a personal portfolio website using React with a modern UI, showcasing projects and skills.Implemented smooth responsive design to create an interactive and visually polished user experience. ✨🚀",
 image: "images/project3.png",
-github: "https://github.com/Nakirikanti-Venkata-Rajiv-Varshith/portfolio.git",
+github: "https://github.com/Nakirikanti-Venkata-Rajiv-Varshith/Portfolio_Devop_Version.git",
 demo: "https://nakirikanti-venkata-rajiv-varshith.github.io/portfolio/"
 },
 
